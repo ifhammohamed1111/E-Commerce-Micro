@@ -104,6 +104,16 @@ Each service is responsible for its own domain and communicates with other servi
 ## Technologies Used
 
 The following technologies are used in this project:
+![Image Description](./assets/monolithic.png)
+
+
+![Image Description](./assets/micro%20servise.png)
+
+
+![Image Description](./assets/complicated%20design.png)
+
+
+![Image Description](./assets/easy%20design.png)
 
 - Node.js: A JavaScript runtime for building server-side applications.
 - Express.js: A web application framework for Node.js.
