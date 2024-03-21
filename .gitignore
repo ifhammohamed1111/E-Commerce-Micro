@@ -1,0 +1,9 @@
+# Ignore specific files
+file.txt
+secret.txt
+package-lock.json
+
+# Ignore specific directories
+directory/
+logs/
+node_modules/
