@@ -49,6 +49,10 @@ The Cart service is responsible for managing the user's shopping cart. It provid
 5. Place an order
 6. View order
 
+## Explain
+
+In this setup, each directory represents a separate service within a microservices architecture. After establishing individual services, we aim to facilitate communication between them using an API gateway. To achieve this, we employ express-http-proxy, a middleware that enables proxying HTTP requests to different backend services based on specified routes. This allows the API gateway to act as a single entry point for client requests, effectively routing them to the appropriate microservice based on predefined rules. By utilizing express-http-proxy, we streamline the handling of requests and responses between services, enhancing the scalability and maintainability of the overall system.
+
 ## Features
 
 The following features are implemented in this application:
