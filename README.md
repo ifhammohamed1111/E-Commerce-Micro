@@ -40,6 +40,15 @@ The Payment service is responsible for handling payments for orders. It integrat
 
 The Cart service is responsible for managing the user's shopping cart. It provides APIs for adding, updating, and removing items from the cart, as well as retrieving cart information.
 
+## Functional Requirement
+
+1. Listing of the available products
+2. User sign-up - sign-in
+3. Add product to cart
+4. Add product to wishlist
+5. Place an order
+6. View order
+
 ## Features
 
 The following features are implemented in this application:
