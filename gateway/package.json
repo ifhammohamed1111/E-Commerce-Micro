@@ -4,6 +4,8 @@
   "description": "api gateway",
   "main": "index.js",
   "scripts": {
+    "dev": "NODE_ENV=dev nodemon src/index.js",
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ifham",
